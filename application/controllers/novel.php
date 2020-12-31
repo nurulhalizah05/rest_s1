@@ -1,6 +1,6 @@
 <?php
 
-use rest_server\Libraries\REST_Controller;
+use restserver\libraries\REST_Controller;
 require APPPATH . 'libraries/REST_Controller.php';
 require APPPATH . 'libraries/Format.php';
 

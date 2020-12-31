@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'http://localhost:8080',
+	'hostname' => 'http://localhost:8080/restserver/',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'novel_db',
